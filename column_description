@@ -1,0 +1,75 @@
+ Province: name of the Italian Province 
+ • P1: Resident population - Total 
+ • P2: Resident population - Males 
+ • P3: Resident population - Females 
+ • P4: Resident population - Unmarried / unmarried 
+ • P5: Resident population - Married (s) (+ separated / in fact) 
+ • P6: Resident population - Separated / and legally 
+ • P7: Resident population - Vedovi / e 
+ • P8: Resident population - Divorced / and 
+ • P9: Resident population - Unmarried males 
+ • P10: Resident population - Conjugated or separate males 
+ • P11: Resident population - Legally separated males 
+ • P12: Resident population - widowed males 
+ • P13: Resident population - Divorced males 
+ • P14: Resident population - age 74 years 
+ • P30: Resident population - Males - age 74 years 
+ • P46: Total resident population of 6 years and over 
+ • P47: Resident population with old degree and new system + university degrees 
+ • P48: Resident population with upper secondary school diploma (maturity + qualification) 
+ • P49: Resident population with lower average • P50: Resident population with elementary license 
+ • P51: Resident population alphabets • P52: Resident population illiterate 
+ • P53: Resident population of 6 years and older 
+ • P54: Male resident population with old degree and new order + university degrees + non-university tertiary diplomas old and new sort 
+ • P55: Resident population males with upper secondary school diploma (maturity + qualification) 
+ • P56: Male resident population with lower average • P57: Resident population males with elementary license 
+ •P58: Resident population male alphabets • P59: Resident population of illiterate males 
+ • P60: Total resident population of 15 years and more belonging to the total work force 
+ • P61: Total resident population aged 15 and over (FL) 
+ • P62: Total resident population aged 15 and more unemployed looking for new employment 
+ • P64: Resident population aged 15 and over, belonging to the labor force 
+ • P65: 16 year-old and busiest male resident opulation (FL) 
+ • P66: Resident population of 15 years and more unemployed looking for new employment 
+ • P128: total resident opation of 15 years and more not belonging to the labor force (NFL) 
+ • P129: Resident population of 15 years and older not belonging to the labor force (NFL) 
+ • P130: Total resident population of 15 years and more housewives / e 
+ • P131: Total resident population of 15 years and more students 
+ • P132: Total resident population of 15 years and more students 
+ • P135: Total resident population aged 15 and over in other condition 
+ • P136: Total resident population of 15 years and over in other condition 
+ • P137: Resident population moving daily in the municipality of habitual residence 
+ • P138: Resident population moving daily out of the habitual residence municipality 
+ • P139: Total resident population of 15 years and more earners of income from work or capital 
+ • P140: Total resident population of 15-year-olds and more earners of income from work or capital 
+ • ST1: Foreigners and stateless persons residing in Italy - Total 
+ • ST2: Foreigners and stateless persons residing in Italy - Males 
+ • ST3: Foreigners and stateless persons residing in Italy - age 0 - 29 years 
+ • ST4: Foreigners and stateless persons residing in Italy - age 30 - 54 years 
+ • ST5: Foreigners and stateless persons residing in Italy - age> 54 years 
+ • ST6: Foreigners and stateless persons residing in Italy - Males - age 0 - 29 years 
+ • ST7: Foreigners and stateless persons residing in Italy - Males - age 30 - 54 years 
+ • ST8: Foreigners and stateless persons residing in Italy - Males - age> 54 years 
+ • ST9: Foreigners living in Italy - Europe • ST10: Foreigners residing in Italy - Africa 
+ • ST11: Foreigners residing in Italy - America • ST12: Foreigners residing in Italy - Asia 
+ • ST13: Foreigners residing in Italy - Oceania • ST14: Stateless persons residing in Italy 
+ • ST15: Foreigners residing in Italy - Total • A2: Homes occupied by at least one resident person 
+ • A3: Empty dwellings and houses occupied only by non-residents • A5: Other types of occupied housing 
+ • A44: Surface of dwellings occupied by at least one resident person • A46: Families in rented housing 
+ • A47: Families in private homes • A48: Households occupying the dwelling for another purpose 
+ • PF1: Total resident families • PF2: Families resident total components • PF3: Resident families 1 component 
+ • PF4: Resident families 2 components • PF5: Resident families 3 components • PF6: Resident families 4 components 
+ • PF7: Resident families 5 members • PF8: Resident families 6 and over components 
+ • PF9: Components of resident families of 6 and over components • E1: Buildings and complexes of buildings (total) 
+ • E2: Buildings and complexes of buildings used • E3: Buildings for residential use 
+ • E4: Buildings and complexes of buildings (used) for productive, commercial, managerial / tertiary, tourist / hospitality, services, other 
+ • E5: residential masonry buildings 
+ • E6: Buildings for residential use in reinforced concrete 
+ • E7: Buildings for residential use in other materials (steel, wood, etc.) • E8: Residential buildings built before 1919 
+ • E9: Buildings for residential use built from 1919 to 1945 • E10: Buildings for residential use built from 1946 to 1960 
+ • E11: Residential buildings built from 1961 to 19X`70 • E12: Buildings for residential use built between 1971 and 1980 
+ • E13: Buildings for residential use built between 1981 and 1990 • E14: Buildings for residential use built from 1991 to 2000 
+ • E15: Buildings for residential use built from 2001 to 2005 • E16: Buildings for residential use built after 2005 
+ • E17: Residential buildings with one floor • E18: Residential buildings with 2 floors • E19: Buildings for residential use with 3 floors 
+ • E20: Residential buildings with 4 floors or more • E21: Residential buildings with an interior • E22: Residential buildings with 2 extensions 
+ • E23: Residential buildings from 3 to 4 interiors • E24: Residential buildings from 5 to 8 internal • E25: Residential buildings from 9 to 15 indoors 
+ • E26: Residential buildings with 16 extensions or more • E27: Total interiors in residential buildings
